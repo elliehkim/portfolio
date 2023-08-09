@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7a134ef6.css",
+    "main.js": "/portfolio/static/js/main.d89679f2.js",
+    "static/media/movie.png": "/portfolio/static/media/movie.ea3708d839753f44ab56.png",
+    "static/media/blog.png": "/portfolio/static/media/blog.5b5af267ccbc0567fd6f.png",
+    "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.7bf4416e91f83822ab07.png",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.40d41fe40148f0254878.jpg",
+    "static/media/github.png": "/portfolio/static/media/github.4bb497e598c121a691f7.png",
+    "static/media/aws-badge.png": "/portfolio/static/media/aws-badge.feb9a7f4874c4148a366.png",
+    "static/media/azure-badge.png": "/portfolio/static/media/azure-badge.741e18184e60305b7608.png",
+    "static/media/react.png": "/portfolio/static/media/react.6b66cfa05e8b113925cf.png",
+    "static/media/linux.png": "/portfolio/static/media/linux.33f257173db1638cf7df.png",
+    "static/media/mongo.png": "/portfolio/static/media/mongo.cb131d59c25d8842c1df.png",
+    "static/media/aws.png": "/portfolio/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/sql.png": "/portfolio/static/media/sql.0d58231cf2504884953f.png",
+    "static/media/python.png": "/portfolio/static/media/python.607a50f5db500cfa6b83.png",
+    "static/media/azure.png": "/portfolio/static/media/azure.4531a2a02487a8a9ce85.png",
+    "static/media/c++.png": "/portfolio/static/media/c++.419df4ebbdda92b70a5b.png",
+    "index.html": "/portfolio/index.html",
+    "main.7a134ef6.css.map": "/portfolio/static/css/main.7a134ef6.css.map",
+    "main.d89679f2.js.map": "/portfolio/static/js/main.d89679f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a134ef6.css",
+    "static/js/main.d89679f2.js"
+  ]
+}
